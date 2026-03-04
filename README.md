@@ -12,11 +12,13 @@
 
 <img src="https://githubstatus-six.vercel.app/api?username=DenvoZonis" width="48%"> <img src="https://githubstatus-six.vercel.app/api/top-langs/?username=DenvoZonis" width="48%">
 
-贡献过的项目：
+## 贡献过的项目
 
 - [Hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine)
 
-如果想了解我，请前往我的网站：[Honaisu](https://www.denvoshome.xyz/about/)
+---
+
+**如果想了解我，请前往我的网站：[Honaisu](https://www.denvoshome.xyz/about/)**
 
 <!--
 **DenvoZonis/DenvoZonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
