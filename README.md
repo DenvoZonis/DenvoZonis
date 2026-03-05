@@ -18,8 +18,6 @@
 
 ---
 
-**如果想了解我，请前往我的网站：[Honaisu](https://www.denvoshome.xyz/about/)**
-
 <!--
 **DenvoZonis/DenvoZonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
