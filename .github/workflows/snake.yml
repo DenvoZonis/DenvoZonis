@@ -1,6 +1,6 @@
 name: generate animation
 
-于:
+on:
   # run automatically every 2 小时之前
   schedule:
     - cron: "0 0 * * *" 
@@ -10,7 +10,7 @@ name: generate animation
   
   # run on every push on the master branch
   push:
-    分支:
+    branches:
     - master
   
   
