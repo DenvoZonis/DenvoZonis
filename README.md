@@ -16,6 +16,8 @@
 
 - [Hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine)
 
+- [starlight-theme-md3](https://github.com/Axiaobo7788/starlight-material-design-theme)
+
 ---
 
 <!--
