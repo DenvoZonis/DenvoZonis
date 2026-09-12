@@ -10,7 +10,7 @@
 
 <!-- 谜底`束`或`㕲` -->
 
-<img src="https://githubstatus-six.vercel.app/api?username=DenvoZonis" width="48%"> <img src="https://githubstatus-six.vercel.app/api/top-langs/?username=DenvoZonis" width="48%">
+<img src="https://githubstatus-six.vercel.app/api?username=DenvoZonis" width="48%">
 
 ## 贡献过的项目
 
